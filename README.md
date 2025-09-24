@@ -143,3 +143,7 @@ rag.index_documents(["/path/to/file.pdf", "/path/to/notes.txt"])  # supports .pd
 ## License
 This project is provided as-is. Add a license of your choice (e.g., MIT) if you plan to distribute.
 
+
+## Usage
+- Run `python app.py` and open http://localhost:5000
+- Upload PDFs to the project directory for RAG
